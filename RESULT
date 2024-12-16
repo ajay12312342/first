@@ -1,0 +1,1004 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Report Card
+</title>
+    <style type="text/css">
+        *
+        {
+            padding: 0;
+        }
+        body
+        {
+            margin: 0;
+            padding: 0;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="./PrintReportCardNew.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA2MTc3MTU5NA9kFgICAw9kFhwCBQ8PFgIeBFRleHQFCTIzMTIzMDU4MGRkAgcPDxYCHwAFDTIzLU5HRi0zMTEwMTZkZAIJDw8WAh8ABQsyMzAzNTMxMTAxNmRkAgsPDxYCHwAFIEJBQ0hFTE9SIE9GIENPTVBVVEVSIEFQUExJQ0FUSU9OZGQCDQ8PFgIfAAUDQkNBZGQCDw8PFgIfAAUrRmlyc3QgU2VtZXN0ZXIgRXhhbWluYXRpb24gLSBEZWNlbWJlciwgMjAyM2RkAhEPDxYCHwAFDk1SIEFCSEFZIFNJTkdIZGQCEw8PFgIfAAUFUElOS0lkZAIVDw8WAh8ABQ1KQUdCSVIgIFNJTkdIZGQCFw8WAh4LXyFJdGVtQ291bnQCCRYSAgEPZBYCZg8VCwExC0JDQS0yMy0tMTA5FlF1YW50aXRhdGl2ZSBSZWFzb25pbmcBMgI3NQIyNQJOQQEwAjIxAAJGIGQCAg9kFgJmDxULATIKQkNBLTIzLTEwMRlGdW5kYW1lbnRhbHMgb2YgQ29tcHV0ZXJzATQCNzUCMjUCTkEBOAIyMAACRiBkAgMPZBYCZg8VCwEzCkJDQS0yMy0xMDMQUHJvZ3JhbW1pbmcgaW4gQwEzAjc1AjI1Ak5BAjMwAjIxAAJCIGQCBA9kFgJmDxULATQKQkNBLTIzLTEwNRVEaWdpdGFsIEVsZWN0cm9uaWNzLTEBMwI3NQIyNQJOQQIxOQIyMgACRiBkAgUPZBYCZg8VCwE1CkJDQS0yMy0xMDcLTWF0aGVtYXRpY3MBMwI3NQIyNQJOQQIxMQIxOQACRiBkAgYPZBYCZg8VCwE2CkJDQS0yMy0xMTERQyBQcm9ncmFtbWluZyBMYWIBMQJOQQIxNQIzNQJOQQIxMgIzMAJBK2QCBw9kFgJmDxULATcKQkNBLTIzLTExMxdEaWdpdGFsIEVsZWN0cm9uaWNzIExhYgExAk5BAjE1AjM1Ak5BAjEzAjMwAkErZAIID2QWAmYPFQsBOAtCQ0EtMjMtMTE1QRVXb3Jrc2hvcC1JIChIYXJkd2FyZSkBMwJOQQIxNQIzNQJOQQIxMQIzMAJBK2QCCQ9kFgJmDxULATkMRU5HLUxMLTIzLTAxLldyaXRpbmcgU2tpbGxzIGFuZCB0aGUgQXJ0IG9mIFJoZXRvcmljIChXU0FBUikBMgI3NQIyNQJOQQIyMAIyMAACRiBkAhkPDxYCHwAFBDAvMjJkZAIbDw8WAh8ABTtSLUJDQS0yMy0tMTA5IEVORy1MTC0yMy0wMSBCQ0EtMjMtMTA3IEJDQS0yMy0xMDUgQkNBLTIzLTEwMWRkAh0PDxYCHwBlZGQCHw8PFgIfAAUKMjEtMDUtMjAyNGRkZK3FRo1PMCxoC2+1s373iYa1K26ydVyrAmAOAWMqQkA7">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="803B70FA">
+</div>
+    <table width="90%" border="0" style="border: 1px solid black;" align="center" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+            <td align="center">
+                <b>Report Card</b>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <p style="font-size: 1.0em; margin: 0px; padding: 0;">
+                    <span id="lblUniversityName" style="font-size:12pt;">J.C. Bose University of Science and Technology YMCA</span><br>
+                    <span id="Label1" style="font-size:12pt;">Faridabad</span>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tbody><tr>
+                        <td width="100%">
+                            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                <tbody><tr>
+                                    <td align="left">
+                                        <table>
+                                            <tbody><tr>
+                                                <td align="left">
+                                                    <label>
+                                                        <strong>DMC Number:</strong></label>
+                                                </td>
+                                                <td>
+                                                    <span id="lblDMCNO" style="font-weight:bold;">231230580</span>
+                                                </td>
+                                                <td>
+                                                    &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+                                                </td>
+                                                <td align="center">
+                                                    <label>
+                                                        <strong>Regn Number:</strong></label>
+                                                </td>
+                                                <td>
+                                                    <span id="lblRegNo" style="font-weight:bold;">23-NGF-311016</span>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                    <td align="right">
+                                        <table>
+                                            <tbody><tr>
+                                                <td>
+                                                    <label>
+                                                        <strong>Roll Number:</strong></label>
+                                                </td>
+                                                <td>
+                                                    <span id="lblRollNo" style="font-weight:bold;">23035311016</span>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                RESULT-CUM-DETAILED MARKS CARD
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <span id="lblProgramType" style="font-weight:bold;">BACHELOR OF COMPUTER APPLICATION</span>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <span id="lblProgramname" style="font-weight:bold;">BCA</span>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <span id="lblSemesterDetails" style="font-weight:bold;">First Semester Examination - December, 2023</span>
+            </td>
+        </tr>
+        <tr>
+            <td align="left">
+                <table border="0" style="width: 100%">
+                    <tbody><tr>
+                        <td style="margin: 0; padding: 0;">
+                            <strong>Name:</strong>
+                        </td>
+                        <td align="left">
+                            <span id="lblname">MR ABHAY SINGH</span>
+                        </td>
+                        <td>
+                            <strong>Mother's Name:</strong>
+                        </td>
+                        <td style="text-align: left;">
+                            <span id="lblMotherName">PINKI</span>
+                        </td>
+                        <td>
+                            <strong>Father's Name:</strong>
+                        </td>
+                        <td style="text-align: left;">
+                            <span id="lblFatherName">JAGBIR  SINGH</span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+        <tr>
+            <td align="left">
+                
+                        <table width="100%" border="1" cellpadding="0" cellspacing="0" style="margin: 0;
+                            padding: 0; font-size: 13px;">
+                            <tbody><tr>
+                                <td align="center">
+                                    <strong>Sr.No.</strong>
+                                </td>
+                                <td align="center">
+                                    <strong>Course Code with Course Title</strong>
+                                </td>
+                                <td align="center">
+                                    <strong>Credits</strong>
+                                </td>
+                                <td align="center">
+                                    <strong>Max Marks</strong>
+                                </td>
+                                <td align="center" colspan="2">
+                                    <strong>Marks/Grade</strong>
+                                </td>
+                            </tr>
+                    
+                        <tr>
+                            <td align="center">
+                                1
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0">
+                                    <tbody><tr>
+                                        <td width="28%">
+                                            BCA-23--109
+                                        </td>
+                                        <td width="72%">
+                                            Quantitative Reasoning
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                2
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="2">
+                                    <tbody><tr style="border: 1px solid black;">
+                                        <td>
+                                            Theory
+                                        </td>
+                                        <td>
+                                            75
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            Sessional
+                                        </td>
+                                        <td>
+                                            25
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            Practical
+                                        </td>
+                                        <td>
+                                             
+                                            NA
+                                           
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                    <tbody><tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            0
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            21
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            
+                                            
+                                            
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                F 
+                            </td>
+                        </tr>
+                    
+                        <tr>
+                            <td align="center">
+                                2
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0">
+                                    <tbody><tr>
+                                        <td width="28%">
+                                            BCA-23-101
+                                        </td>
+                                        <td width="72%">
+                                            Fundamentals of Computers
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                4
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="2">
+                                    <tbody><tr style="border: 1px solid black;">
+                                        <td>
+                                            Theory
+                                        </td>
+                                        <td>
+                                            75
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            Sessional
+                                        </td>
+                                        <td>
+                                            25
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            Practical
+                                        </td>
+                                        <td>
+                                             
+                                            NA
+                                           
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                    <tbody><tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            8
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            20
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            
+                                            
+                                            
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                F 
+                            </td>
+                        </tr>
+                    
+                        <tr>
+                            <td align="center">
+                                3
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0">
+                                    <tbody><tr>
+                                        <td width="28%">
+                                            BCA-23-103
+                                        </td>
+                                        <td width="72%">
+                                            Programming in C
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                3
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="2">
+                                    <tbody><tr style="border: 1px solid black;">
+                                        <td>
+                                            Theory
+                                        </td>
+                                        <td>
+                                            75
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            Sessional
+                                        </td>
+                                        <td>
+                                            25
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            Practical
+                                        </td>
+                                        <td>
+                                             
+                                            NA
+                                           
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                    <tbody><tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            30
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            21
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            
+                                            
+                                            
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                B 
+                            </td>
+                        </tr>
+                    
+                        <tr>
+                            <td align="center">
+                                4
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0">
+                                    <tbody><tr>
+                                        <td width="28%">
+                                            BCA-23-105
+                                        </td>
+                                        <td width="72%">
+                                            Digital Electronics-1
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                3
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="2">
+                                    <tbody><tr style="border: 1px solid black;">
+                                        <td>
+                                            Theory
+                                        </td>
+                                        <td>
+                                            75
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            Sessional
+                                        </td>
+                                        <td>
+                                            25
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            Practical
+                                        </td>
+                                        <td>
+                                             
+                                            NA
+                                           
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                    <tbody><tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            19
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            22
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            
+                                            
+                                            
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                F 
+                            </td>
+                        </tr>
+                    
+                        <tr>
+                            <td align="center">
+                                5
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0">
+                                    <tbody><tr>
+                                        <td width="28%">
+                                            BCA-23-107
+                                        </td>
+                                        <td width="72%">
+                                            Mathematics
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                3
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="2">
+                                    <tbody><tr style="border: 1px solid black;">
+                                        <td>
+                                            Theory
+                                        </td>
+                                        <td>
+                                            75
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            Sessional
+                                        </td>
+                                        <td>
+                                            25
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            Practical
+                                        </td>
+                                        <td>
+                                             
+                                            NA
+                                           
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                    <tbody><tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            11
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            19
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            
+                                            
+                                            
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                F 
+                            </td>
+                        </tr>
+                    
+                        <tr>
+                            <td align="center">
+                                6
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0">
+                                    <tbody><tr>
+                                        <td width="28%">
+                                            BCA-23-111
+                                        </td>
+                                        <td width="72%">
+                                            C Programming Lab
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                1
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="2">
+                                    <tbody><tr style="border: 1px solid black;">
+                                        <td>
+                                            Theory
+                                        </td>
+                                        <td>
+                                            NA
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            Sessional
+                                        </td>
+                                        <td>
+                                            15
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            Practical
+                                        </td>
+                                        <td>
+                                             
+                                            35
+                                           
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                    <tbody><tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            NA
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            12
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            
+                                            
+                                            30
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                A+
+                            </td>
+                        </tr>
+                    
+                        <tr>
+                            <td align="center">
+                                7
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0">
+                                    <tbody><tr>
+                                        <td width="28%">
+                                            BCA-23-113
+                                        </td>
+                                        <td width="72%">
+                                            Digital Electronics Lab
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                1
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="2">
+                                    <tbody><tr style="border: 1px solid black;">
+                                        <td>
+                                            Theory
+                                        </td>
+                                        <td>
+                                            NA
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            Sessional
+                                        </td>
+                                        <td>
+                                            15
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            Practical
+                                        </td>
+                                        <td>
+                                             
+                                            35
+                                           
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                    <tbody><tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            NA
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            13
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            
+                                            
+                                            30
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                A+
+                            </td>
+                        </tr>
+                    
+                        <tr>
+                            <td align="center">
+                                8
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0">
+                                    <tbody><tr>
+                                        <td width="28%">
+                                            BCA-23-115A
+                                        </td>
+                                        <td width="72%">
+                                            Workshop-I (Hardware)
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                3
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="2">
+                                    <tbody><tr style="border: 1px solid black;">
+                                        <td>
+                                            Theory
+                                        </td>
+                                        <td>
+                                            NA
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            Sessional
+                                        </td>
+                                        <td>
+                                            15
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            Practical
+                                        </td>
+                                        <td>
+                                             
+                                            35
+                                           
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                    <tbody><tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            NA
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            11
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            
+                                            
+                                            30
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                A+
+                            </td>
+                        </tr>
+                    
+                        <tr>
+                            <td align="center">
+                                9
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0">
+                                    <tbody><tr>
+                                        <td width="28%">
+                                            ENG-LL-23-01
+                                        </td>
+                                        <td width="72%">
+                                            Writing Skills and the Art of Rhetoric (WSAAR)
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                2
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="2">
+                                    <tbody><tr style="border: 1px solid black;">
+                                        <td>
+                                            Theory
+                                        </td>
+                                        <td>
+                                            75
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            Sessional
+                                        </td>
+                                        <td>
+                                            25
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            Practical
+                                        </td>
+                                        <td>
+                                             
+                                            NA
+                                           
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                    <tbody><tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            20
+                                            
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            20
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            &nbsp;
+                                        </td>
+                                        <td>
+                                            
+                                            
+                                            
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td align="center">
+                                F 
+                            </td>
+                        </tr>
+                    
+                        </tbody></table>
+                    
+            </td>
+        </tr>
+        <tr>
+            <td align="left">
+                &nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td align="left">
+                <table width="100%" border="0">
+                    <tbody><tr>
+                        <td>
+                            Current Point / Credit
+                        </td>
+                        <td>
+                            <span id="lblCredit">0/22</span>
+                        </td>
+                        <td>
+                            &nbsp;SGPA:
+                        </td>
+                        <td align="left">
+                            <span id="lblResult">R-BCA-23--109 ENG-LL-23-01 BCA-23-107 BCA-23-105 BCA-23-101</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            &nbsp;CGPA:
+                        </td>
+                        <td align="left">
+                            <span id="lblCgpaResult"></span>
+                        </td>
+                        <td>
+                            Date of Publication on the website :
+                        </td>
+                        <td align="left">
+                            <span id="lblDate">21-05-2024</span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" style="font-size: 12px; color: Red;">
+                Disclaimer: This electronically generated information does not have any legal validity.<br>
+                Please set margin none on browser printing box for printing.<br>
+                Note:1. If found any discrepancy in the above particulars, student is directed to
+                report the same in the office for correction within two weeks from date of publication
+                on website. Thereafter, no communication will be entertained and the whole responsibility
+                will be of the student.
+            </td>
+        </tr>
+    </tbody></table>
+    </form>
+
+
+</body></html>
